@@ -4,38 +4,41 @@
     "url": "https://app.phenotrack.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.phenotrack.com.ico",
     "slug": "pheno-track-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
     "timeDay": 351,
     "timeWeek": 350,
-    "timeMonth": 293,
+    "timeMonth": 298,
     "timeYear": 234,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-30": 0
+    }
   },
   {
     "name": "PhenoTrack API Health",
     "url": "https://app.phenotrack.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.phenotrack.com.ico",
     "slug": "pheno-track-api-health",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
     "time": 341,
     "timeDay": 189,
     "timeWeek": 195,
-    "timeMonth": 231,
+    "timeMonth": 234,
     "timeYear": 341,
     "dailyMinutesDown": {
       "2026-07-26": 577,
-      "2026-07-25": 271
+      "2026-07-25": 271,
+      "2026-10-30": 0
     }
   }
 ]
